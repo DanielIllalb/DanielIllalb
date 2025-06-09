@@ -22,7 +22,9 @@
 
 ###
 
-<p align="left">👩‍💻  Sobre mí<br><br>Soy desarrollador de aplicaciones web Full Stack con sólida experiencia en el diseño, desarrollo e implementación de soluciones tecnológicas modernas. Poseo amplios conocimientos en tecnologías backend como Java y el ecosistema Spring (Boot, JPA), así como en tecnologías frontend modernas como Angular y React, complementadas con el uso de JavaScript y TypeScript.<br><br>Estoy en constante aprendizaje y disfruto asumir nuevos desafíos tecnológicos que me permitan seguir creciendo como desarrollador.</p>
+<p align="left">👩‍💻  Sobre mí<br><br>Soy desarrollador de aplicaciones web Full Stack con sólida experiencia en el diseño, desarrollo e implementación de soluciones tecnológicas modernas.<br><br> 
+  Me apasiona construir aplicaciones eficientes, escalables y bien estructuradas, aplicando buenas prácticas de desarrollo, principios SOLID y metodologías ágiles.
+  Poseo buenos conocimientos en tecnologías backend como Java y el ecosistema Spring (Boot, JPA), así como en tecnologías frontend modernas como Angular y React, complementadas con el uso de JavaScript y TypeScript.<br><br> Estoy en constante aprendizaje y disfruto asumir nuevos desafíos tecnológicos que me permitan seguir creciendo como desarrollador.</p>
 
 ###
 
@@ -69,3 +71,8 @@
 </div>
 
 ###
+
+### 💡 ¿Qué puedes encontrar en mi GitHub?
+- Proyectos personales y de práctica
+- Ejemplos de arquitectura backend y frontend
+- Código limpio, comentado y estructurado
