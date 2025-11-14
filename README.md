@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">¡hola! ¡Soy Daniel! ¡Encantado de conocerte!👋</h2>
+<h2 align="left">¡Hola! ¡Soy Daniel! ¡Encantado de conocerte!👋</h2>
 
 ###
 
